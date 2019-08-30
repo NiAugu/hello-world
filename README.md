@@ -1,2 +1,2 @@
 # hello-world
-Just say hi 
+Just creating a project about IoT and try out some stuff :) 
